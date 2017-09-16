@@ -1,8 +1,8 @@
 /**
  *
  * @author belen.yasin
- * belenyasin@gmail.com
  */
+
 public class GecenZaman {
 
   public static void main(String[] args) {
